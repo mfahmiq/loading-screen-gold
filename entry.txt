@@ -1,0 +1,1 @@
+Tip: your agent isn't stuck — it's reading your code the way you read 3 a.m. error logs: slowly, and with regret.
